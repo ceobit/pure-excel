@@ -3,7 +3,6 @@
 ![tasty pie](https://www.thespruceeats.com/thmb/7kaMmzyK-hTeQtFx5_DRjsGHE3M=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/traditional-british-fish-pie-recipe-435284-hero-01-f806dbb689ad4e1d917a49f30bb6c6aa.jpg)
 
 
-
 ## Ingredients
 
 * 1 cup fish stock
@@ -20,7 +19,7 @@
 
 Optional: a handful of grated cheddar cheese_
 
-##Steps to Make It
+##  Steps to Make It
 1. Gather the ingredients. Preheat the oven to 355 F / 180 C.
 2. Pour the fish stock and milk into a large saucepan and bring to a gentle simmer.
 3. Add the fish pieces and bay leaf and poach for 5 minutes.
