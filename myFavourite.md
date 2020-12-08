@@ -17,7 +17,8 @@
 * Freshly ground black pepper (to taste)
 * 5 1/2 cups mashed potatoes (warm and creamy)
 
-__Optional: a handful of grated cheddar cheese__
+_Optional: a handful of grated cheddar cheese_
+
 
 ##  Steps to Make It
 1. Gather the ingredients. Preheat the oven to 355 F / 180 C.
