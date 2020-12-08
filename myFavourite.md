@@ -31,6 +31,4 @@ _Optional: a handful of grated cheddar cheese_
 >Either buy one type of fish (skin and bones removed) cut into bite-sized chunks, or mix different fish and/or prawns together.   
 If using frozen fish, defrost it first to avoid water in the bottom of the casserole dish. Using fish that isn't properly defrosted can lead to a watery fish pie.
 
-![pie](https://gfycat.com/artisticcourageousafricanrockpython)
-
 Also [You can find a lot of recipes](https://www.thespruceeats.com/traditional-british-fish-pie-recipe-435284)
