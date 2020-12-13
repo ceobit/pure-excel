@@ -1,3 +1,5 @@
+import {capitalize} from '@core/utils';
+
 export class DomListener {
   constructor($root, listeners=[]) {
     if (!$root) {
@@ -8,10 +10,24 @@ export class DomListener {
   }
 
   initDOMListener() {
-    console.log(this.listeners);
+    this.listeners.forEach(listener => {
+      const method = getMethodName(listener);
+      if (!this[method]) {
+        throw new Error(`Method ${method} is not implemented`);
+      }
+      this[method] = this[method].bind(this);
+      this.$root.on(listener, this[method]);
+    });
   }
 
-  deleteDOMListener() {
-
+  removeDOMListener() {
+    this.listeners.forEach(listener => {
+      const method = getMethodName(listener);
+      this.$root.off(listener, this[method]);
+    });
   }
+}
+
+function getMethodName(eventName) {
+  return 'on'+ capitalize(eventName);
 }
